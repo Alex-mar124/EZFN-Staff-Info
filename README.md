@@ -15,7 +15,7 @@
  Admin: 4
 
 #### Staff activity 
-Staff activity is very important, you need to make sure you are helping out in #chat as well in the #get help channels. admins and the [Staff Manager]() will from now closley watching your activity **PLEASE BE ACTIVE :)** if u are unable to be active for anything thats fine! please let an admin know though as we know you are away, if you are not active you will recive a warning, from this warning you will get a dm from [Staff Manager]() asking you to be active, over the next week we would then whatch you and if you not active over that week you may be demoted, but we are all about second chances so the [Head of recruitment]() will talk to you about regaining your position AS WE KNOW YOU ARE GOOD xD.
+Staff activity is very important, you need to make sure you are helping out in #chat as well in the #get help channels. admins and the [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) will from now closley watching your activity **PLEASE BE ACTIVE :)** if u are unable to be active for anything thats fine! please let an admin know though as we know you are away, if you are not active you will recive a warning, from this warning you will get a dm from [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) asking you to be active, over the next week we would then whatch you and if you not active over that week you may be demoted, but we are all about second chances so the [Head of recruitment](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) will talk to you about regaining your position AS WE KNOW YOU ARE GOOD xD.
 
 #### Staff Rules
 - Staff MUST apply to the main #rules all the time. 
