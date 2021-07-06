@@ -27,7 +27,7 @@ Staff activity is very important, you need to make sure you are helping out in #
 
 
 #### SR roles 
-Staff Manager: 
+Staff Manager: Golden
 The staff managers's job is too be ontop of staff to make sure they are doing their job correctly they are also make sure that all staff are [follow the activity rules mentioned above]() 
 
 - Head of recruitment: 
