@@ -27,14 +27,20 @@ Staff activity is very important, you need to make sure you are helping out in #
 
 
 #### SR roles 
-Staff Manager: Golden
-The staff managers's job is too be ontop of staff to make sure they are doing their job correctly they are also make sure that all staff are [follow the activity rules mentioned above]() 
+- Staff Manager: Golden
+
+  - The staff managers's job is too be ontop of staff to make sure they are doing their job correctly they are also make sure that all staff are [follow the activity rules mentioned above](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-activity) 
 
 - Head of recruitment: 
-  - Head of recruitment's job is to employ people for helping ezfn and managing  applications. 
+  - Head of recruitment's job is to employ people for helping ezfn and managing applications. 
 
 - Recruiter:
   - Help go through applications 
 
 - Head Managment / Community Operations: Alex 
   - Head of Managment's job is to do keep the serving running e.g. updating rules coding discod bots for ezfn managing events and on and on... and Community Operations is to make sure faq is updated and get the server retiontion up. 
+  
+#### Trial Staff  
+ - When you first become staff you become a trial staff member, this period will last for one week, in this time you must be active in #get-help and #chat and learn all about how to moderate and help in ezfn, after this week if the [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles)and the [Head of recruitment](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) are happy we will welcome you to the staff team!
+
+###### Thanks for reading through all this this is all important info, in the next day or 2 i will add correct punishments so we are all o the same level. If we also need to update the [Staff Roles Table Let me know!](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-positions)
