@@ -1,46 +1,52 @@
 # [EZFN Staff Info](https://ezfn.dev)
 ### Staff Positions
-|  Rank | Position  |
-| ----------- | ------------ |
-| Owner  | Lupus  |
-|  Admin/Trial Admin |Dido, Golden, Heavy and Alex  |
-| Sr Mod | Oly  |
-|  Mod |Cubbin, Spin, Jaybat and Eren   |
-| Helper | Kggn, Geer, Mello, Casov, Jaws, Zitro, Bob, SAITAMA, Madara, Plane, AnikoSenpai, Zanni, Xela and Amy  |
+| Rank  | User | ID |
+| ------------- | ------------- | ------------- |
+| Owner | Lupus | `796410025575710851` |
+| Admin/Trial Admin | Dido<br>Golden<br>Heavy<br>Alex | `259371739262222346`<br>`338837396068106292`<br>`540035716621664277`<br>`574078275232595988` |
+| Sr Mod | Oly<br>Spin | `852707071958056970`<br>`308440976723148800` |
+| Mod | Plane<br>Cubbin<br>Jaybat<br>Eren | `552997268140195842`<br>`851578319060729896`<br>`718985774300659793`<br>`814208173354909746` |
+| Helper | Kggn<br>Geer<br>Mello<br>Casov<br>Jaws<br>Zitro<br>Bob<br>SAITAMA<br>Madara<br>Zanni<br>Amy | `665655267785965568`<br>`421996494447443969`<br>`516473797013012487`<br>`596602874587381770`<br>`213750331413233665`<br>`691342961857921034`<br>`666331714829942794`<br>`697077584072278016`<br>`422395701805449236`<br>`616709675211030539`<br>`607015025282121728` |
 
-#### MAX Amount of people allowed in each role: 
- Helper: 20
- Mod: 7
- SR Mod: 2
- Admin: 4
+#### MAX Amount of people allowed in each role:
+ Admin: 4<br>
+ SR Mod: 2<br>
+ Mod: 7<br>
+ Helper: 20<br>
+ 
+ ---
 
 #### Staff activity 
-Staff activity is very important, you need to make sure you are helping out in #chat as well in the #get-help channels. admins and the [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) will from now on be closley watching your activity **PLEASE BE ACTIVE :)** if u are unable to be active for anything thats fine! please let an admin know though as we know you are away, if you are not active you will receive a warning, from this warning you will get a dm from [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) asking you to be active, over the next week. we would then watch you and if you are not active over that week you may be demoted, but we are all about second chances so the [Head of recruitment](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) will talk to you about regaining your position AS WE KNOW YOU ARE GOOD xD.
+ - Staff activity is very important, you need to make sure you are helping out in #chat as well in the #get-help channels.
+ - Admins and the [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) will from now on be closley watching your activity **PLEASE BE ACTIVE :)**.
+ - If u are unable to be active for anything thats fine! Please let an admin know though so we know you are away
+    - if you go inactive without giving us a heads up, you will receive a warning, from this warning you will get a dm from [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) asking you to be active, over the next week. we would then watch you and if you are not active over that week you may be demoted, but we are all about second chances so the [Head of recruitment](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) will talk to you about regaining your position AS WE KNOW YOU ARE GOOD xD.
 
 #### Staff Rules
 - Staff MUST apply to the main #rules all the time. 
 - Be nice to all members even if you get mad at them
 - Use punishment commands correctly and for rule-breakers only.
+  - Read #staff-guide
 - Dont ignore members in chat trying to get help. 
-- use common sense 
+- Use common sense 
 - **PLEASE BE ACTIVE**
 
 
 #### SR roles 
-- Staff Manager: Golden
+- Staff Manager: **Golden**
 
-  - The staff managers's job is to be on top of staff to make sure they are doing their job correctly. they are also making sure that all staff are [following the activity rules mentioned above](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-activity) 
+  - The staff managers's job is to be on top of staff to make sure they are doing their job correctly. They are also making sure that all staff are [following the activity rules mentioned above](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-activity) 
 
 - Head of recruitment: 
-  - Head of recruitment's job is to employ people for helping ezfn and managing applications. 
+  - Head of recruitment's job is to employ people for helping EZFN and managing applications.
 
-- Recruiter:
+- Recruiter & Sr. Mods:
   - Help go through applications 
 
-- Head Managment / Community Operations: Alex 
-  - Head of Managment's job is to do keep the service running e.g. updating rules, coding discord bots for ezfn, managing events and on and on... and Community Operations is to make sure faq is updated and get the server retention up. 
+- Head Managment / Community Operations: **Alex** 
+  - Head of Managment's job is to do keep the service running, e.g. updating rules, coding discord bots for EZFN, managing events and on and on... Community Operations is to make sure the FAQ channel is updated and to get the server retention up. 
   
 #### Trial Staff  
- - When you first become staff you become a trial staff member, this period will last for one week, in this time you must be active in #get-help and #chat and learn all about how to moderate and help in ezfn, after this week if the [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) and the [Head of recruitment](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) are happy we will welcome you to the staff team!
+ - When you first become staff you become a trial staff member, this period will last for one week, in this time you must be active in the help channels and #chat and learn all about how to moderate and help in EZFN. After this week if the [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) and the [Head of recruitment](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) are happy we will welcome you to the staff team!
 
-###### Thanks for reading through all this this is all important info, in the next day or 2 i will add correct punishments so we are all on the same level. If we also need to update the [Staff Roles Table Let me know!](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-positions)
+###### Thanks for reading through all this this is all important info, in the next day or 2 I will add correct punishments so we are all on the same level. If we also need to update the [Staff Roles Table Let me know!](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-positions)
