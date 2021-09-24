@@ -7,7 +7,7 @@
 | Sr Mod | Oly<br>Spin | `852707071958056970`<br>`308440976723148800` |
 | Mod | SAITAMA<br>Cubbin<br>Jaybat<br>Eren | `697077584072278016`<br>`851578319060729896`<br>`718985774300659793`<br>`814208173354909746` |
 | Helper | Crazr<br>Jinx<br>Kggn<br>Geer<br>Mello<br>Casov<br>Jaws<br>Zitro<br>Bob<br>Madara<br>Amy | `699268149756821555`<br>`852609594379599892`<br>`665655267785965568`<br>`421996494447443969`<br>`516473797013012487`<br>`596602874587381770`<br>`213750331413233665`<br>`691342961857921034`<br>`666331714829942794`<br>`422395701805449236`<br>`607015025282121728` |
-| Trial Helper | Steph | `874871011756089355` |
+| Trial Helper | N/A | `N/A` |
 
 #### MAX Amount of people allowed in each role:
  Admin: 4<br>
