@@ -6,10 +6,10 @@
 | Admin/Trial Admin | Dido<br>Golden<br>Heavy<br>Alex | `259371739262222346`<br>`338837396068106292`<br>`540035716621664277`<br>`574078275232595988` |
 | Sr Mod | Oly<br>Spin | `852707071958056970`<br>`308440976723148800` |
 | Mod | SAITAMA<br>Cubbin<br>Jaybat<br>Eren | `697077584072278016`<br>`851578319060729896`<br>`718985774300659793`<br>`814208173354909746` |
-| Helper | Penislol<br>Crazr<br>Jinx<br>Kggn<br>Geer<br>Mello<br>Casov<br>Jaws<br>Zitro<br>Bob<br>Madara<br>Amy | `852609594379599892`<br>`699268149756821555`<br>`852609594379599892`<br>`665655267785965568`<br>`421996494447443969`<br>`516473797013012487`<br>`596602874587381770`<br>`213750331413233665`<br>`691342961857921034`<br>`666331714829942794`<br>`422395701805449236`<br>`607015025282121728` |
+| Helper | Penislol<br>Crazr<br>Kggn<br>Geer<br>Mello<br>Jaws<br>Zitro<br>Bob<br>Madara | `852609594379599892`<br>`699268149756821555`<br>`665655267785965568`<br>`421996494447443969`<br>`516473797013012487`<br>`596602874587381770`<br>`213750331413233665`<br>`666331714829942794`<br>`422395701805449236` |
 | Trial Helper | N/A | `N/A` |
 
-#### MAX Amount of people allowed in each role:
+#### MAX Amount of people allowed in each role: **SUBJECT TO CHANGE IN THE FUTURE.**
  Admin: 4<br>
  SR Mod: 2<br>
  Mod: 7<br>
@@ -39,16 +39,19 @@
 
   - The staff managers's job is to be on top of staff to make sure they are doing their job correctly. They are also making sure that all staff are [following the activity rules mentioned above](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-activity) 
 
-- Head of recruitment: 
+- Head of recruitment: **Dido**
   - Head of recruitment's job is to employ people for helping EZFN and managing applications.
 
-- Recruiter & Sr. Mods:
+- Recruiter & Sr. Mods: **Oly, Spin**
   - Help go through applications 
 
 - Head Managment / Community Operations: **Alex** 
   - Head of Managment's job is to do keep the service running, e.g. updating rules, coding discord bots for EZFN, managing events and on and on... Community Operations is to make sure the FAQ channel is updated and to get the server retention up. 
   
-#### Trial Staff  
- - When you first become staff you become a trial staff member, this period will last for one week, in this time you must be active in the help channels and #chat and learn all about how to moderate and help in EZFN. After this week if the [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) and the [Head of recruitment](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) are happy we will welcome you to the staff team!
+#### Trial Helper  
+ - When you first become staff you become a trial helper, this period will last for one week, in this time you must be active in the help channels and #chat and learn all about how to moderate and help in EZFN. After this week if the [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) and the [Head of recruitment](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) are happy we will welcome you to the staff team!
+
+#### Promotions
+ - Staff promotions are based on two factors. One, The number of staff members in specific groups, and two, Retention and activity. Remember to always be active and you may be promoted in the future! The [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) handles promotions, with recommendations from other Administrators. You must go through the ranks one by one. For example, you cannot become a senior moderator when you are a helper. You must first be promoted from helper to moderator, and then be promoted again to senior moderator.
 
 ###### Thanks for reading through all this this is all important info, in the next day or 2 I will add correct punishments so we are all on the same level. If we also need to update the [Staff Roles Table Let me know!](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-positions)
