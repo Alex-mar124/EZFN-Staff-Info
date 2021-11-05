@@ -54,4 +54,4 @@
 #### Promotions
  - Staff promotions are based on two factors. One, The number of staff members in specific groups, and two, Retention and activity. Remember to always be active and you may be promoted in the future! The [Staff Manager](https://github.com/Alex-mar124/EZFN-Staff-Info#sr-roles) handles promotions, with recommendations from other Administrators. You must go through the ranks one by one. For example, you cannot become a senior moderator when you are a helper. You must first be promoted from helper to moderator, and then be promoted again to senior moderator.
 
-###### Thanks for reading through all this. It is all important info, in the next day or 2 I will add correct punishments so we are all on the same level. If we also need to update the [Staff Roles Table Let me know!](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-positions)
+###### Thanks for reading through all this. It is all important info, in the next day or 2 I will add correct punishments so we are all on the same level. If we also need to update the [Staff Roles Table](https://github.com/Alex-mar124/EZFN-Staff-Info#staff-positions); let Golden, Alex, or Spin know!
