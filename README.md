@@ -42,7 +42,7 @@
 - Head of recruitment: **Dido**
   - Head of recruitment's job is to employ people for helping EZFN and managing applications.
 
-- Recruiter & Sr. Mods: **Oly, Spin**
+- Recruiter & Sr. Mods: **Cubbin, Oly, and Spin**
   - Help go through applications 
 
 - Head Managment / Community Operations: **Alex** 
