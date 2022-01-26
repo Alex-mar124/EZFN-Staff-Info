@@ -1,13 +1,13 @@
 # [EZFN Staff Info](https://ezfn.dev)
 ### Staff Positions
 | Rank  | User | ID |
-| ------------- | ------------- | ------------- |
+| :-------------: | :-------------: | :-------------: |
 | Owner | Lupus | `796410025575710851` |
 | Admin/Trial Admin | Dido<br>Golden<br>Heavy<br>Alex | `259371739262222346`<br>`338837396068106292`<br>`540035716621664277`<br>`574078275232595988` |
 | Sr Mod | Oly<br>Spin<br>Cubbin | `903128087733092392`<br>`308440976723148800`<br>`851578319060729896` |
 | Mod | Jaws<br>Melly<br>SAITAMA<br>Jaybat<br>Eren | `213750331413233665`<br>`500394472857665536`<br>`697077584072278016`<br>`718985774300659793`<br>`814208173354909746` |
-| Helper | vquorx<br>Zythrex<br>xpct<br>Joe Bama<br>Crazr<br>Mello<br>Zitro<br>Bobby<br>Madara | `333771316349894658`<br>`755285369821462538`<br>`611844920575000587`<br>`799075553583300668`<br>`699268149756821555`<br>`516473797013012487`<br>`691342961857921034`<br>`666331714829942794`<br>`422395701805449236` |
-| Trial Helper | charcoal | `718312214469279745` |
+| Helper | Lua<br>Zythrex<br>xpct<br>Joe Bama<br>Crazr<br>Mello<br>Zitro<br>Bobby<br>Madara | `333771316349894658`<br>`755285369821462538`<br>`611844920575000587`<br>`799075553583300668`<br>`699268149756821555`<br>`516473797013012487`<br>`691342961857921034`<br>`666331714829942794`<br>`422395701805449236` |
+| Trial Helper | N/A | `N/A` |
 
 #### MAX Amount of people allowed in each role: **SUBJECT TO CHANGE IN THE FUTURE.**
  Admin: 4<br>
@@ -43,7 +43,8 @@
   - Head of recruitment's job is to employ people for helping EZFN and managing applications.
 
 - Recruiter & Sr. Mods: **Cubbin, Oly, and Spin**
-  - Help go through applications 
+  - Help go through applications
+  - Help manage lower ranked staff
 
 - Head Managment / Community Operations: **Alex** 
   - Head of Managment's job is to do keep the service running, e.g. updating rules, coding discord bots for EZFN, managing events and on and on... Community Operations is to make sure the FAQ channel is updated and to get the server retention up. 
